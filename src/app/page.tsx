@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Welcome To Next.JS practice Session...</li>
+          <li>Welcome To Next.JS practice Session in Development Branch...</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
